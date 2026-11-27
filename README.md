@@ -50,4 +50,9 @@
   <a href="https://www.linkedin.com/in/sebastian-y-716389274"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img src="assets/contact-linkedin-light.svg" alt="LinkedIn" height="44"></picture></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastian-yengle08/sebastian-yengle08/output/github-snake-dark.svg">
+  <img alt="Serpiente animada comiendo mis contribuciones de GitHub" src="https://raw.githubusercontent.com/sebastian-yengle08/sebastian-yengle08/output/github-snake.svg" width="100%">
+</picture>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-es-dark.svg"><img src="assets/footer-es-light.svg" alt="Gracias por pasar por aquí" width="100%"></picture>
