@@ -10,7 +10,7 @@
   <a href="https://github.com/sebastian-yengle08/sebastian-yengle08/blob/main/README.en.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-en-off-dark.svg"><img src="assets/lang-en-off-light.svg" alt="English" height="40"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-es-dark.svg"><img src="assets/about-es-light.svg" alt="Estudiante de Ingeniería de Sistemas e Inteligencia Artificial en la UPAO (Trujillo, Perú). Construyo soluciones con IA para problemas reales: un asistente para una clínica dental, un tutor para niños de primaria y una plataforma que ayuda a detectar hallazgos arqueológicos en obras. Lidero equipos de desarrollo y proyectos de impacto social." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-es-dark.svg"><img src="assets/about-es-light.svg" alt="Estudiante de Ingeniería de Sistemas e Inteligencia Artificial en la UPAO (Trujillo, Perú). Aprendo desarrollando: he trabajado en un asistente para una clínica dental, un tutor para niños de primaria y una idea para detectar hallazgos arqueológicos en obras. Me gusta trabajar en equipo y aprender con proyectos de impacto real." width="100%"></picture>
 
 <br>
 

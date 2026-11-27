@@ -10,7 +10,7 @@
   <a href="https://github.com/sebastian-yengle08/sebastian-yengle08/blob/main/README.en.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-en-on-dark.svg"><img src="assets/lang-en-on-light.svg" alt="English" height="40"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-en-dark.svg"><img src="assets/about-en-light.svg" alt="Systems Engineering & Artificial Intelligence student at UPAO (Trujillo, Peru). I build AI solutions for real problems: an assistant for a dental clinic, a tutor for primary school kids, and a platform that helps flag archaeological finds at construction sites. I lead development teams and social-impact projects." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-en-dark.svg"><img src="assets/about-en-light.svg" alt="Systems Engineering & Artificial Intelligence student at UPAO (Trujillo, Peru). I learn by building: I've worked on an assistant for a dental clinic, a tutor for primary school kids, and an idea to flag archaeological finds at construction sites. I enjoy teamwork and learning from projects with real-world impact." width="100%"></picture>
 
 <br>
 
