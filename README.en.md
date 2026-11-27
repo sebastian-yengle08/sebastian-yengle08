@@ -1,4 +1,4 @@
-<a href="https://github.com/sebastian-yengle08/sebastian-yengle08/blob/main/README.en.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-en-dark.svg"><img src="assets/header-en-light.svg" alt="Sebastian Yengle Alfaro — Systems & AI Engineering, UPAO, Trujillo, Peru. Applied AI, web apps & PWAs, data & BI." width="100%"></picture></a>
+<a href="https://github.com/sebastian-yengle08/sebastian-yengle08/blob/main/README.en.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.svg"><img src="assets/hero-en-light.svg" alt="Sebastian Yengle — Systems & AI Engineering, UPAO, Trujillo, Peru. Applied AI, web apps & PWAs, data & BI." width="100%"></picture></a>
 
 <a href="https://github.com/sebastian-yengle08?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-en-dark.svg"><img src="assets/now-en-light.svg" alt="Now: working on Kodi and HuacaScan Field" width="100%"></picture></a>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrics-en-dark.svg"><img src="assets/metrics-en-light.svg" alt="Numbers: 2,831 archaeological sites cross-checked in HuacaScan Field; 1 of 7 youth parliamentarians for La Libertad at Congress 2025; 30+ countries in Harvard's Aspire Leaders; 7 countries in América Solidaria." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sheet-en-dark.svg"><img src="assets/sheet-en-light.svg" alt="Character sheet: Sebastian, Systems & AI Engineer, level 6 (semester 6 of 10). Attributes: AI, Web & PWA, Data & BI, Cloud & DevOps, Leadership. Achievements: Harvard's Aspire Leaders, Youth Parliament 2025, Director of AbonaVida, real freelance project." width="100%"></picture>
 
 <br>
 
@@ -25,6 +25,8 @@
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-projects-en-dark.svg"><img src="assets/title-projects-en-light.svg" alt="Projects" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/constellation-en-dark.svg"><img src="assets/constellation-en-light.svg" alt="Project constellation: HuacaScan Field, Kodi, DentiBot, Flappy Bird, hospital triage and Power BI." width="100%"></picture>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-huacascan-en-dark.svg"><img src="assets/project-huacascan-en-light.svg" alt="HuacaScan Field: PWA that photographs terrain with GPS and uses computer vision to estimate the probability of archaeological evidence. Repo coming soon." width="49%"></picture>
