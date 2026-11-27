@@ -2,6 +2,8 @@
 
 <a href="https://github.com/sebastian-yengle08?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-en-dark.svg"><img src="assets/now-en-light.svg" alt="Now: working on Kodi and HuacaScan Field" width="100%"></picture></a>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-en-dark.svg"><img src="assets/open-en-light.svg" alt="Open to internships in software, data and AI" width="100%"></picture>
+
 <p align="center">
   <a href="https://github.com/sebastian-yengle08"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-es-off-dark.svg"><img src="assets/lang-es-off-light.svg" alt="Español" height="40"></picture></a>
   &nbsp;
@@ -9,6 +11,10 @@
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-en-dark.svg"><img src="assets/about-en-light.svg" alt="Systems Engineering & Artificial Intelligence student at UPAO (Trujillo, Peru). I build AI solutions for real problems: an assistant for a dental clinic, a tutor for primary school kids, and a platform that helps flag archaeological finds at construction sites. I lead development teams and social-impact projects." width="100%"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrics-en-dark.svg"><img src="assets/metrics-en-light.svg" alt="Numbers: 2,831 archaeological sites cross-checked in HuacaScan Field; 1 of 7 youth parliamentarians for La Libertad at Congress 2025; 30+ countries in Harvard's Aspire Leaders; 7 countries in América Solidaria." width="100%"></picture>
 
 <br>
 
@@ -37,6 +43,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/leadership-en-dark.svg"><img src="assets/leadership-en-light.svg" alt="Leadership: Aspire Leaders Program at Harvard (cohort 2025-1); Regional Youth Parliamentarian for La Libertad at Peru's Congress (2025), 1 of 7 representatives; Director of AbonaVida (nonprofit) since 2024; Master of Ceremonies at América Solidaria Perú; Camper and Coach at LALA." width="100%"></picture>
 
 <p align="center">
+  <a href="https://sebastian-yengle08.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg"><img src="assets/contact-portfolio-light.svg" alt="Portfolio" height="44"></picture></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sebastian-y-716389274"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img src="assets/contact-linkedin-light.svg" alt="LinkedIn" height="44"></picture></a>
 </p>
 

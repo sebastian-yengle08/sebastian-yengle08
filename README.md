@@ -2,6 +2,8 @@
 
 <a href="https://github.com/sebastian-yengle08?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-es-dark.svg"><img src="assets/now-es-light.svg" alt="Ahora: trabajando en Kodi y HuacaScan Field" width="100%"></picture></a>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/open-es-dark.svg"><img src="assets/open-es-light.svg" alt="Abierto a prácticas pre-profesionales en desarrollo, datos e IA" width="100%"></picture>
+
 <p align="center">
   <a href="https://github.com/sebastian-yengle08"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-es-on-dark.svg"><img src="assets/lang-es-on-light.svg" alt="Español" height="40"></picture></a>
   &nbsp;
@@ -9,6 +11,10 @@
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-es-dark.svg"><img src="assets/about-es-light.svg" alt="Estudiante de Ingeniería de Sistemas e Inteligencia Artificial en la UPAO (Trujillo, Perú). Construyo soluciones con IA para problemas reales: un asistente para una clínica dental, un tutor para niños de primaria y una plataforma que ayuda a detectar hallazgos arqueológicos en obras. Lidero equipos de desarrollo y proyectos de impacto social." width="100%"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrics-es-dark.svg"><img src="assets/metrics-es-light.svg" alt="Cifras: 2 831 sitios arqueológicos cruzados en HuacaScan Field; 1 de 7 parlamentarios jóvenes de La Libertad en el Congreso 2025; más de 30 países en Aspire Leaders de Harvard; 7 países en América Solidaria." width="100%"></picture>
 
 <br>
 
@@ -37,6 +43,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/leadership-es-dark.svg"><img src="assets/leadership-es-light.svg" alt="Liderazgo: Aspire Leaders Program de Harvard (cohorte 2025-1); Parlamentario Joven de La Libertad ante el Congreso (2025), 1 de 7 representantes; Director de AbonaVida (ONG) desde 2024; Maestro de Ceremonias en América Solidaria Perú; Campista y Coach en LALA." width="100%"></picture>
 
 <p align="center">
+  <a href="https://sebastian-yengle08.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg"><img src="assets/contact-portfolio-light.svg" alt="Portfolio" height="44"></picture></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sebastian-y-716389274"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img src="assets/contact-linkedin-light.svg" alt="LinkedIn" height="44"></picture></a>
 </p>
 
